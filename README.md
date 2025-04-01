@@ -1,2 +1,2 @@
-# TideHost-WebSite
-The main website of hosting TideHost.
+# TideHost WebSite 
+✔ The official website TideHost.org
